@@ -16,15 +16,10 @@ const Footer = () => {
       <h3>Marcado</h3>
 
       <p className="footer-links">
-      <Link to='/'><p>Home</p></Link>
-    
-        
-        
-        
-      
-        
-      
-        
+      <Link to='/'><a>Home</a></Link>
+      <Link to='/products'><a>Products</a></Link>
+      <Link to='/about'><a>About Us</a></Link>
+      <Link to='/contact'><a>Aontact Us</a></Link>
       </p>
 
       <p className="footer-company-name">Marcado © {currenDate}</p>
