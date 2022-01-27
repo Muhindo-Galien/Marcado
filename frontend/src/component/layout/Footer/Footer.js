@@ -19,10 +19,10 @@ const Footer = () => {
       <Link to='/'><a>Home</a></Link>
       <Link to='/products'><a>Products</a></Link>
       <Link to='/about'><a>About Us</a></Link>
-      <Link to='/contact'><a>Aontact Us</a></Link>
+      <Link to='/contact'><a>Contact Us</a></Link>
       </p>
 
-      <p className="footer-company-name">Marcado © {currenDate}</p>
+      <p className="footer-company-name" style={{color:"tomato"}}>Marcado © {currenDate}</p>
     </div>
 
     <div className="footer-center">
