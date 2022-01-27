@@ -34,4 +34,4 @@ _fill each filed with your info respectively_
 
 **Instagram** Click [Here](https://www.instagram.com/galienplume) **@galienplume**
 **LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@muhindogalien**
-**Twitter** Click [Here](https://twitter.com/galienmuhindo) **@meAbhi_Singh**
+**Twitter** Click [Here](https://twitter.com/galienmuhindo) **@muhindogalien**
