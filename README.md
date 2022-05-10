@@ -2,7 +2,7 @@
 
 Hi!This is a sample wesbite made by Muhindo Galien. Only with the purpose to teach MERN Stack to improve my skills
 
-# Install the following  Dependencies
+# Install the following  Dependencies to run this app
 
 **For Backend** - `npm i`
 
