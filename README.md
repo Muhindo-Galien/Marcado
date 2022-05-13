@@ -12,7 +12,7 @@ Hi!This is a sample wesbite made by Muhindo Galien. Only with the purpose to tea
 
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
-**Essential Variables**
+**The Essential Variables**
 PORT=
 DB_URI =
 STRIPE_API_KEY=
