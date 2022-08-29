@@ -4,7 +4,7 @@ Hi!This is a sample wesbite made by Muhindo Galien. Only with the purpose to tea
 
 # Install the following  Dependencies to run this app
 
-**For Backend** - `npm i`
+**For Backend** - `npm i`or `npm install`
 
 **For Frontend** - `cd frontend` ` npm i`
 
