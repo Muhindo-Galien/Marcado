@@ -1,4 +1,4 @@
-# MERN MARCADO online store
+# MERN MARCADO
 
 Hi!This is a sample wesbite made by Muhindo Galien. Only with the purpose to teach MERN Stack to improve my skills
 
