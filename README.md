@@ -1,6 +1,6 @@
-# MERN MARCADO
+# MARCADO
 
-Hi!This is a sample wesbite made by Muhindo Galien. Only with the purpose to teach MERN Stack to improve my skills
+MARCADO is an e-commerce website allows users to purchase goods and services online, from the convenience of their own device and location. It simplifies the shopping experience and provides access to a wider range of products and services.
 
 # Install the following  Dependencies to run this app
 
@@ -13,6 +13,7 @@ Hi!This is a sample wesbite made by Muhindo Galien. Only with the purpose to tea
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
 **The Essential Variables**
+```bash
 PORT=
 DB_URI =
 STRIPE_API_KEY=
@@ -28,11 +29,11 @@ SMPT_PORT=
 CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
+```
 
 _fill each filed with your info respectively_
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/galienplume) **@galienplume**
 **LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@muhindogalien**
 **Twitter** Click [Here](https://twitter.com/galienmuhindo) **@muhindogalien**
